@@ -1,5 +1,5 @@
 {
-  "name": "Node.js-and-File-System",
+  "name": "Node.js-and-HTTP-requests",
   "version": "1.0.0",
   "description": "Starter package.json template",
   "main": "main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acciojob/Node.js-and-File-System.git"
+    "url": "git+https://github.com/acciojob/Node.js-and-HTTP-requests.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acciojob/Node.js-and-File-System/issues"
+    "url": "https://github.com/acciojob/Node.js-and-HTTP-requests/issues"
   },
-  "homepage": "https://github.com/acciojob/Node.js-and-File-System#readme",
+  "homepage": "https://github.com/acciojob/Node.js-and-HTTP-requests#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   },
